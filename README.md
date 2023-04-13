@@ -1,14 +1,8 @@
 ## <p align="center">:spades::spades: Welcome :spades::spades:
 
 <div align="center">
-    <a href="https://github.com/dangolbeeker/github-stats#gh-dark-mode-only">
-        <img src="https://github.com/dangolbeeker/github-stats/blob/stats/overview.svg#gh-dark-mode-only" />
-        <img src="https://github.com/dangolbeeker/github-stats/blob/stats/languages.svg#gh-dark-mode-only" />
-    </a>
-    <a href="https://github.com/dangolbeeker/github-stats#gh-light-mode-only">
-        <img src="https://github.com/dangolbeeker/github-stats/blob/stats/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-        <img src="https://github.com/dangolbeeker/github-stats/blob/stats/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-    </a>
+  ![](https://raw.githubusercontent.com/dangolbeeker/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/dangolbeeker/github-stats/master/generated/languages.svg#gh-light-mode-only)
 </div>
 
 <a href="https://www.linkedin.com/in/realscottbeeker/" rel="nofollow">
