@@ -2,7 +2,7 @@
 
 <div align="center">
 
-    
+    ![]https://github.com/dangolbeeker/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only
   </div>
 
 <a href="https://www.linkedin.com/in/realscottbeeker/" rel="nofollow">
